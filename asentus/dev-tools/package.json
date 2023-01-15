@@ -1,12 +1,12 @@
 {
-  "name": "acidus",
+  "name": "Bilier",
   "version": "1.0.0",
-  "description": "HTML5 Template",
+  "description": "smartgenz製作事例:テンプレート01",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "keenthemes.com",
+  "author": "smartgenz.com",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1",
